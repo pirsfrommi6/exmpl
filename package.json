@@ -1,0 +1,21 @@
+{
+  "name": "cj3",
+  "version": "1.0.0",
+  "description": "corejs",
+  "main": "notifications/notifications.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rolling-scopes-school/pirsfrommi6-2018Q3.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
